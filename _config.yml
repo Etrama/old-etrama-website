@@ -33,7 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
   |Interests &nbsp;&nbsp;&nbsp;: <mark>Machine Learning</mark> <mark>Deep Learning</mark> <mark>Gamifying and Accelerating Learning</mark>
   |Libraries &nbsp;&nbsp;&nbsp;: <mark>FastAI</mark> <mark>PyTorch</mark> <mark>Numpy</mark> <mark>Scipy</mark> <mark>Pandas</mark>  <mark>Keras</mark>  <mark>Prophet</mark>  <mark>Sklearn</mark>  <mark>Plotly Dash</mark> <mark>TPOT</mark>
   |Languages: <mark>Python</mark> <mark>Shell Scripting</mark> <mark>MATLAB</mark> <mark>VBA</mark> <mark>Javascript</mark>
-  |Skills &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <mark>Machine Learning</mark> <mark>RPA</mark> <mark>Oracle EBS and Cloud Security</mark>
+  |Skills &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <mark>Machine Learning</mark> <mark>RPA</mark> <mark>Oracle EBS and Cloud Security</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -51,7 +51,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Watch anime / read manga
    - Exercise
    - Jump from one hobby to another
-   - Work on some pet project
+   - I can speak a lot of languages- English, Hindi, Marathi, Tamil, French (B2), German (B1.1) and a bit of Japanese (N5.1).
 
 # Footer
 footer_show_references: false
