@@ -1,6 +1,17 @@
 - layout: left
   name: Open Source Contribution
-  #link: github.com/sproogen
+  link: https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md
+  link: https://medium.com/@kaushikmoudgalya/my-adventures-with-paperspace-day-1-connection-issues-ff7c390b1a48
+  github: sproogen/resume-theme
+  #quote: >
+   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Contributed to a guide to help resolve Jupyter Notebook connection for the FAST AI library being run on Paperspace. The medium article on the same topic has over 3.5k views.
+    
+- layout: left
+  name: Open Source Contribution
+  link: https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md
+  link: https://medium.com/@kaushikmoudgalya/my-adventures-with-paperspace-day-1-connection-issues-ff7c390b1a48
   github: sproogen/resume-theme
   #quote: >
    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
@@ -9,7 +20,7 @@
     
 - layout: left
   name: 2018 Annual Deloitte Machine Learning Guild Hackathon - First place
-  #link: github.com/sproogen
+  link: https://github.com/Etrama/ML-grocery-gap
   github: sproogen/resume-theme
   #quote: >
    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
@@ -18,7 +29,7 @@
 
 - layout: left
   name: DataRobot Ideation Challenge - Second place
-  #link: github.com/sproogen
+  #link:
   github: sproogen/resume-theme
   #quote: >
    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
@@ -54,6 +65,16 @@
     The paper provides techniques and a checklist to prevent bias from creeping into Machine Learning models.
 
 - layout: left
+  name: Miscellaneous Personal Projects
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >
+   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    - Python script to automate and simplify common Excel tasks (Excel_editor), python script to scrape 9gag (9gag_scraper), project to convert songs into gifs (gifmymovies), multithread scraping in python (Scraping-Cleaning-Threading).
+    - Machine Learning for Book Recommendation Systems, Prediction of Valid Insurance Claims, Pork Price Prediction, IMDB Sentiment Review including scraping, cleaning, modeling and evaluation of models.
+
+- layout: left
   name: Work Projects
   #link: github.com/sproogen
   #github: sproogen/resume-theme
@@ -61,3 +82,4 @@
    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
     Implemented Oracle EBS and Oracle Cloud Security and Controls onn FSCM (Financial Supply Chain Management) and HCM (Human Capital Management) modules on multiple client engagements. Responsible for role builds, defect resolution, data security and access provisioning.
+    
