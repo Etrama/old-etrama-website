@@ -1,8 +1,63 @@
-- layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
+- layout: left
+  name: Open Source Contribution
+  #link: github.com/sproogen
   github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #quote: >
+   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Contributed to a guide to help resolve Jupyter Notebook connection for the FAST AI library being run on Paperspace. The medium article on the same topic has over 3.5k views. 
+    
+- layout: left
+  name: 2018 Annual Deloitte Machine Learning Guild Hackathon - First place
+  #link: github.com/sproogen
+  github: sproogen/resume-theme
+  #quote: >
+   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Built a Predictive Health Dashboard to predict where local governments should provide benefits and subsidies to open new grocery stores.
+
+- layout: left
+  name: DataRobot Ideation Challenge - Second place
+  #link: github.com/sproogen
+  github: sproogen/resume-theme
+  #quote: >
+   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Demonstrated the capabilities of DataRobot on varied datasets, evaluated strengths and weaknesses of the product, developed use cases.
+
+- layout: left
+  name: Zomato Ratings Prediction Challenge - Third place
+  #link: github.com/sproogen
+  github: sproogen/resume-theme
+  #quote: >
+   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Cleaned data, validated accuracy of data, engineered features, used conventional Machine Learning models and AutoML.
+    
+- layout: left
+  name: Co-author on a Whitepaper - Bridging the data space in Machine Learning
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >
+   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Most widely read whitepaper on Deloitte's internal knowledge platform in 2018.<br>
+    My section in the paper dealt with the development of personnel with both business and technical skills, from the moment they started their career and also catering for cases like people who join the organization mid-career.
+
+- layout: left
+  name: Co-author on a Whitepaper - Ethically mitigating biases in Machine Learning
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >
+   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    The paper provides techniques and a checklist to prevent bias from creeping into Machine Learning models.
+
+- layout: left
+  name: Work Projects
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >
+   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Implemented Oracle EBS and Oracle Cloud Security and Controls onn FSCM (Financial Supply Chain Management) and HCM (Human Capital Management) modules on multiple client engagements. Responsible for role builds, defect resolution, data security and access provisioning.
