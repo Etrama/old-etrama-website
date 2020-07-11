@@ -6,7 +6,7 @@
   #quote: >
    #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    Machine Learning, RPA (Robotic Process Automation), Python Scripts for automation and data cleaning, Kubernetes, Prisma Cloud Compute, ERP (Enterprise Resource Planning) Security for Oracle EBS (E-Business Suite) and Cloud, VBA (Visual Basic for Applications) scripting.
+    Machine Learning, RPA (Robotic Process Automation), Python Scripts for automation and data cleaning, Kubernetes, Prisma Cloud Compute, ERP (Enterprise Resource Planning) Security for Oracle EBS (E-Business Suite) and Oracle Cloud, VBA (Visual Basic for Applications) scripting.
   
 - layout: left
   company: Cummins India Limited
@@ -16,7 +16,7 @@
   #quote: >
    #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    Predicting Driver Behavior using Neural Networks based on engine speed, gear ratios etc to help drivers achieve better fuel economies.
+    Predicting Driver Behavior using Neural Networks based on engine speed, gear ratios etc. to help drivers achieve better fuel economies.
 
 - layout: left
   company: Star Engineers Pvt. Ltd.
