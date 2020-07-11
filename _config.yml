@@ -45,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me22222
+# more_title: A Little More About
 more_content: | # this will include new lines to allow paragraphs
   In my free time I will usually:
    - Watch anime / read manga
@@ -54,7 +54,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Work on some pet project
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
