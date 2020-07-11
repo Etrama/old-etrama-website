@@ -27,7 +27,7 @@ linkedin_username: Kaushik Moudgalya
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi there! I'm Kaushik and I dabble in ML, scripting, and DevOps. I'm a Consultant (Solution Advisor) at my day job.
+  Hi there! I'm Kaushik and I dabble in Machine Learning, scripting, and DevOps. I'm a Consultant (Solution Advisor) at my day job.
   Check out my projects or one of my textbook / paper summaries!
   
   |Interests &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <mark>Machine Learning</mark> <mark>Deep Learning</mark> <mark>Gamifying and Accelerating Learning</mark>
