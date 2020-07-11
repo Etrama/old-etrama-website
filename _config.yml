@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Kaushik Moudgalya
-#title: Senior Network System Administrator
+title: Machine Learning Enthusiast
 email: kaushikmoudgalya@gmail.com
 website: www.github.com/sproogen/resume-theme
 
@@ -18,7 +18,7 @@ github_username:  Etrama
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: chillwildlife
-linkedin_username: jameswgrant
+linkedin_username: https://www.linkedin.com/in/kaushik-gowrishankar-moudgalya/
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -41,7 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+# more_title: A Little More About Me22222
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Rock climbing
