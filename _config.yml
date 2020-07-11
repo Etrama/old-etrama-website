@@ -30,10 +30,10 @@ about_content: | # this will include new lines to allow paragraphs
   Hi there! I'm Kaushik and I dabble in ML, scripting, and DevOps. I'm a Consultant (Solution Advisor) at my day job.
   Check out my projects or one of my textbook / paper summaries!
   
-  |Interested in: <mark>Machine Learning</mark> <mark>Deep Learning</mark> <mark>Gamifying and Accelerating Learning</mark>
-  |Libraries    : <mark>FastAI</mark> <mark>PyTorch</mark> <mark>Numpy</mark> <mark>Scipy</mark> <mark>Pandas</mark>  <mark>Keras</mark>  <mark>Prophet</mark>  <mark>Sklearn</mark>  <mark>Plotly Dash</mark> <mark>TPOT</mark>
-  |Languages    : <mark>Python</mark> <mark>Shell Scripting</mark> <mark>MATLAB</mark> <mark>VBA</mark> <mark>Javascript</mark>
-  |Skills       : <mark>Machine Learning</mark> <mark>RPA</mark> <mark>Oracle EBS and Cloud Security</mark>
+  |Interests: <mark>Machine Learning</mark> <mark>Deep Learning</mark> <mark>Gamifying and Accelerating Learning</mark>
+  |Libraries: <mark>FastAI</mark> <mark>PyTorch</mark> <mark>Numpy</mark> <mark>Scipy</mark> <mark>Pandas</mark>  <mark>Keras</mark>  <mark>Prophet</mark>  <mark>Sklearn</mark>  <mark>Plotly Dash</mark> <mark>TPOT</mark>
+  |Languages: <mark>Python</mark> <mark>Shell Scripting</mark> <mark>MATLAB</mark> <mark>VBA</mark> <mark>Javascript</mark>
+  |Skills &nbsp;&nbsp;&nbsp;&nbsp;: <mark>Machine Learning</mark> <mark>RPA</mark> <mark>Oracle EBS and Cloud Security</mark>
 
 # Projects Section
 # projects_title: Projects
