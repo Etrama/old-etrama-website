@@ -4,4 +4,4 @@
   qualification: BTech - Electronics Engineering
   description: | # this will include new lines to allow paragraphs
     <b>Electives</b>: Shell Scripting in Linux, Cyptography, MEMS (micro electro mechanical systems) and Robotics. <br>
-    <b>Projects</b>: Implemented AES (Advanced Encryption Standard) from scratch in VHDL, made a digit recognizer using a micro-controller, built a chainsaw robot and a heat exchanger.<br>
+    <b>Projects</b>&nbsp;&nbsp;: Implemented AES (Advanced Encryption Standard) from scratch in VHDL, made a digit recognizer using a micro-controller, built a chainsaw robot and a heat exchanger.<br>
