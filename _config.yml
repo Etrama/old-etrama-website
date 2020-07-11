@@ -3,21 +3,24 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: Kaushik Moudgalya
+#title: Senior Network System Administrator
+email: kaushikmoudgalya@gmail.com
 website: www.github.com/sproogen/resume-theme
+
+# Dark Mode (true/false/never)
+darkmode: true
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  Etrama
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
+#instagram_username: chillwildlife
 linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -59,5 +62,4 @@ sass:
 plugins:
  - jekyll-seo-tag
  
-darkmode: true
 
