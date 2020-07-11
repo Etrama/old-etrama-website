@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: Etrama/etrama.github.io
 favicon: images/favicon.ico
 
 # Personal info
@@ -12,7 +12,7 @@ website: www.github.com/sproogen/resume-theme
 darkmode: true
 
 # Social links
-twitter_username: facespics
+twitter_username: Banana_Leopard
 github_username:  Etrama
 # dribbble_username: jekyll
 # facebook_username: jekyll
