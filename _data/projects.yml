@@ -1,8 +1,16 @@
 - layout: left
+  name: Anime_ML_Project
+  github: https://github.com/Etrama/Anime_ML_Project
+  #quote: >
+   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    My current magnum opus. Consecutively scraped a ton of images for the top 100 anime followed by scraping even more than a ton of images of the top 10 characters in each anime. The goal was to try to identify anime using a ML model and when successful, we planned to identify the characters in the image as well. This project has some pretty lofty and we have miles to go before this project is laid to bed.
+    #Write a better description ABOVE. We aren't doing our project any justice with this description.
+    
+- layout: left
   name: Open Source Contribution
-  link: https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md
   link: https://medium.com/@kaushikmoudgalya/my-adventures-with-paperspace-day-1-connection-issues-ff7c390b1a48
-  github: sproogen/resume-theme
+  github: https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md
   #quote: >
    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
@@ -10,9 +18,8 @@
     
 - layout: left
   name: Open Source Contribution
-  link: https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md
   link: https://medium.com/@kaushikmoudgalya/my-adventures-with-paperspace-day-1-connection-issues-ff7c390b1a48
-  github: sproogen/resume-theme
+  github: https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md
   #quote: >
    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
@@ -20,8 +27,8 @@
     
 - layout: left
   name: 2018 Annual Deloitte Machine Learning Guild Hackathon - First place
-  link: https://github.com/Etrama/ML-grocery-gap
-  github: sproogen/resume-theme
+  #link: https://github.com/Etrama/ML-grocery-gap
+  github: https://github.com/Etrama/ML-grocery-gap
   #quote: >
    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
@@ -30,7 +37,7 @@
 - layout: left
   name: DataRobot Ideation Challenge - Second place
   #link:
-  github: sproogen/resume-theme
+  #github: sproogen/resume-theme
   #quote: >
    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
@@ -38,8 +45,8 @@
 
 - layout: left
   name: Zomato Ratings Prediction Challenge - Third place
-  #link: github.com/sproogen
-  github: sproogen/resume-theme
+  #link: https://github.com/Etrama/Zomato-Ratings-Prediction
+  github: https://github.com/Etrama/Zomato-Ratings-Prediction
   #quote: >
    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
