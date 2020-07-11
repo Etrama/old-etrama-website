@@ -7,6 +7,15 @@
     My current magnum opus. Consecutively scraped a ton of images for the top 100 anime followed by scraping even more than a ton of images of the top 10 characters in each anime. The goal was to try to identify anime using a ML model and when successful, we planned to identify the characters in the image as well. This project has some pretty lofty and we have miles to go before this project is laid to bed.
     #Write a better description ABOVE. We aren't doing our project any justice with this description.
     
+    
+- layout: left
+  name: Deep Learning Paper Notes
+  github: https://github.com/Etrama/DL-Paper-Notes
+  #quote: >
+   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    My notes on a few Deep Learning papers. Hopefully, I improve my understanding of Deep Learning in the process (also helps when I want to revisit the paper) while making it easier for other people to read papers.
+    
 - layout: left
   name: Open Source Contribution
   link: https://medium.com/@kaushikmoudgalya/my-adventures-with-paperspace-day-1-connection-issues-ff7c390b1a48
