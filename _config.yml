@@ -48,10 +48,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About
 more_content: | # this will include new lines to allow paragraphs
 In my free time I will usually: 
-- Watch anime / read manga
-- Exercise
-- Work on some pet project / jump from one hobby to another
-- Learn a language. I can speak a lot of languages- English, Hindi, Marathi, Tamil, French (B2), German (B1.1) and a bit of Japanese (N5.1).
+  - Watch anime / read manga
+  - Exercise
+  - Work on some pet project / jump from one hobby to another
+  - Learn a language. I can speak a lot of languages- English, Hindi, Marathi, Tamil, French (B2), German (B1.1) and a bit of Japanese (N5.1).
 
 
 # Footer
