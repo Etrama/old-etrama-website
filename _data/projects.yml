@@ -73,7 +73,7 @@
     The paper provides techniques and a checklist to prevent bias from creeping into Machine Learning models. (Co-author)
 
 - layout: left
-  name: Miscellaneous Personal Projects
+  name: Miscellaneous Projects
   #link: github.com/sproogen
   #github: sproogen/resume-theme
   #quote: >
@@ -81,13 +81,5 @@
   description: | # this will include new lines to allow paragraphs
     - Python script to automate and simplify common Excel tasks (Excel_editor), python script to scrape 9gag (9gag_scraper), project to convert songs into gifs (gifmymovies), multithread scraping in python (Scraping-Cleaning-Threading).
     - Machine Learning for Book Recommendation Systems, Prediction of Valid Insurance Claims, Pork Price Prediction, IMDB Sentiment Review including scraping, cleaning, modeling and evaluation of models.
-
-- layout: left
-  name: Work Projects
-  #link: github.com/sproogen
-  #github: sproogen/resume-theme
-  #quote: >
-   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    Implemented Oracle EBS and Oracle Cloud Security and Controls onn FSCM (Financial Supply Chain Management) and HCM (Human Capital Management) modules on multiple client engagements. Responsible for role builds, defect resolution, data security and access provisioning.
+    - <b>Work Projects</b>: Implemented Oracle EBS and Oracle Cloud Security and Controls onn FSCM (Financial Supply Chain Management) and HCM (Human Capital Management) modules on multiple client engagements. Responsible for role builds, defect resolution, data security and access provisioning.
     
