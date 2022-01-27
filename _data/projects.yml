@@ -1,6 +1,6 @@
 - layout: left
   name: Atmospheric Event Classification
-  github: Etrama/Anime_ML_Project
+  github: Etrama/AIFT6390_Weather-Events-Classification
   #quote: >
    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
@@ -9,7 +9,7 @@
   
   - layout: left
   name: Crop Harvest Classification:
-  github: Etrama/IFT6390_Weather-Events-Classification
+  github: Etrama/IFT6390_Crop_Harvest
   #quote: >
    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
