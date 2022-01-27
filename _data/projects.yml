@@ -1,4 +1,32 @@
-
+##################MASTER'S PROJECTS
+- layout: left
+  name: Atmospheric Event Classification
+  github: Etrama/Anime_ML_Project
+  #quote: >
+   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Classified events as either standard background conditions / tropical cyclones or atmospheric rivers. Used techniques such as SMOTE and SMOTE Tomek to fix class imbalance, hyperparameter tuning using HalvingRandomGridSearchCV, manual feature engineering, and a plethora of sklearn classification algorithms.
+  # Write a better description ABOVE. We aren't doing our project any justice with this description.
+  
+  - layout: left
+  name: Crop Harvest Classification:
+  github: Etrama/IFT6390_Weather-Events-Classification
+  #quote: >
+   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Given meteorological and satellite data, predicted land as either crop or non-crop land. Used techniques such as AutoML (Light AutoML and PyCaret) as well as blending and stacking to reduce bias and generalize better.
+  # Write a better description ABOVE. We aren't doing our project any justice with this description.
+  
+  - layout: left
+  name: NHL Data Science Project
+  github: Jie637/NHL-DataScience
+  #quote: >
+   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Implemented a complete Data Science pipeline: data collection, tidying data, creation of synthetic features, basic and advanced interactive visualizations using plotly, tracking models through CometML, deploying models through a REST API using Docker and Flask.
+  # Write a better description ABOVE. We aren't doing our project any justice with this description.
+  
+ #############END OF MASTER'S PROJECTS
 - layout: left
   name: Anime_ML_Project
   github: Etrama/Anime_ML_Project
