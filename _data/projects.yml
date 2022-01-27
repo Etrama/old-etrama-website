@@ -1,19 +1,21 @@
 - layout: left
   name: Atmospheric Event Classification
-  github: Etrama/AIFT6390_Weather-Events-Classification
+  github: Etrama/IFT6390_Weather-Events-Classification
+  link: https://bit.ly/Kaggle_1_Report
   #quote: >
    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    Classified events as either standard background conditions / tropical cyclones or atmospheric rivers. Used techniques such as SMOTE and SMOTE Tomek to fix class imbalance, hyperparameter tuning using HalvingRandomGridSearchCV, manual feature engineering, and a plethora of sklearn classification algorithms.
+    Classified events as either standard background conditions / tropical cyclones or atmospheric rivers. Used techniques such as SMOTE and SMOTE Tomek to fix class imbalance, hyperparameter tuning using HalvingRandomGridSearchCV, manual feature engineering, and a plethora of sklearn classification algorithms. Check out the doc link for a more detailed overview of the project.
   # Write a better description ABOVE. We aren't doing our project any justice with this description.
   
 - layout: left
   name: Crop Harvest Classification
   github: Etrama/IFT6390_Crop_Harvest
+  link: https://bit.ly/Kaggle_2_Report
   #quote: >
    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    Given meteorological and satellite data, predicted land as either crop or non-crop land. Used techniques such as AutoML (Light AutoML and PyCaret) as well as blending and stacking to reduce bias and generalize better.
+    Given meteorological and satellite data, predicted land as either crop or non-crop land. Used techniques such as AutoML (Light AutoML and PyCaret) as well as blending and stacking to reduce bias and generalize better. Check out the doc link for a more detailed overview of the project.
   # Write a better description ABOVE. We aren't doing our project any justice with this description.
   
 - layout: left
