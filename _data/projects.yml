@@ -7,7 +7,7 @@
 #     Classified events as either standard background conditions / tropical cyclones or atmospheric rivers. Used techniques such as SMOTE and SMOTE Tomek to fix class imbalance, hyperparameter tuning using HalvingRandomGridSearchCV, manual feature engineering, and a plethora of sklearn classification algorithms.
   
 - layout: left
-  name: Crop Harvest Classification:
+  name: Crop Harvest Classification
   github: Etrama/IFT6390_Crop_Harvest
   #quote: >
    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
