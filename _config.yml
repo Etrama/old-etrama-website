@@ -2,9 +2,6 @@
 repository: Etrama/etrama.github.io
 favicon: images/favicon.ico
 
-# Content configuration version
-version: 2
-
 # Personal info
 name: Kaushik Moudgalya
 title: Machine Learning Enthusiast
