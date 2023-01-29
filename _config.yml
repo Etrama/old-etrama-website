@@ -27,7 +27,7 @@ linkedin_username: kaushik-gowrishankar-moudgalya
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi there! I'm Kaushik and I dabble in Machine Learning, scripting, and DevOps. I'm currently studying at the Univesity of Montreal towards my Master's in Computer Science, specializing in Machine Learning.
+  Hi there! I'm Kaushik and I dabble in Machine Learning, scripting, and DevOps. I'm currently studying at the University of Montreal towards my Master's in Computer Science, specializing in Machine Learning.
   Check out my projects or one of my paper summaries!
   
   |Interests &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <mark>Machine Learning</mark> <mark>Deep Learning</mark> <mark>AutoML</mark> <mark>Few shot Learning</mark>
